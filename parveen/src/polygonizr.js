@@ -14,7 +14,7 @@
         restNodeMovements: 1,
         // When the cluster updates, this sets speed of nodes.
         duration: 3,
-        // Define the maximum distance to move nodes.
+       
         nodeMovementDistance: 100,
         // The number of node nodes to print out.
         numberOfNodes: 25,
